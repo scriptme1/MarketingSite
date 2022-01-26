@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/MarketingSite/static/js/main.701cf89c.chunk.js",
+    "main.js.map": "/MarketingSite/static/js/main.701cf89c.chunk.js.map",
+    "runtime-main.js": "/MarketingSite/static/js/runtime-main.efb0e38a.js",
+    "runtime-main.js.map": "/MarketingSite/static/js/runtime-main.efb0e38a.js.map",
+    "static/js/2.2c9fedb8.chunk.js": "/MarketingSite/static/js/2.2c9fedb8.chunk.js",
+    "static/js/2.2c9fedb8.chunk.js.map": "/MarketingSite/static/js/2.2c9fedb8.chunk.js.map",
+    "index.html": "/MarketingSite/index.html",
+    "static/js/2.2c9fedb8.chunk.js.LICENSE.txt": "/MarketingSite/static/js/2.2c9fedb8.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/MarketingSite/static/media/profile.8a701d40.jpg",
+    "static/media/svg-1.svg": "/MarketingSite/static/media/svg-1.c9c88a21.svg",
+    "static/media/svg-2.svg": "/MarketingSite/static/media/svg-2.882a2cd5.svg",
+    "static/media/svg-3.svg": "/MarketingSite/static/media/svg-3.335c6aa8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efb0e38a.js",
+    "static/js/2.2c9fedb8.chunk.js",
+    "static/js/main.701cf89c.chunk.js"
+  ]
+}
